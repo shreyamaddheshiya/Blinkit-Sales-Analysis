@@ -1,33 +1,38 @@
-# Blinkit Data Analysis Dashboard
+Blinkit Sales Analysis Dashboard (Excel)
 
-## Project Overview
+Project Overview
+This project presents a Microsoft Excel dashboard for analyzing Blinkit’s sales performance, customer behavior, and product distribution. The dashboard provides useful insights using tools like Pivot Tables, Charts, and Slicers. The main objective is to convert raw data into meaningful information for better decision-making.
 
-This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
+Key Performance Indicators (KPIs)
 
-## Key Performance Indicators (KPIs)
+Total Sales: Overall revenue generated from all items sold
+Average Sales: Average revenue per transaction
+Number of Items: Total count of items sold
+Average Rating: Average customer rating
 
-The dashboard focuses on the following primary KPIs:
+Features
 
-1. **Total Sales**: Overall revenue generated from all items sold ($1.20M)
-2. **Average Sales**: Average revenue per sale ($141)
-3. **Number of Items**: Total count of different items sold (8523)
-4. **Average Rating**: Average customer rating for items sold (3.9 out of 5)
+Interactive filters using slicers
+Data analysis using Pivot Tables
+Charts such as bar chart, pie chart, and column chart
+Sales analysis based on product category
+Outlet performance analysis based on size and location
 
-## Features
+Insights and Conclusions
 
-- **Filter Panel**: Allows users to filter data by outlet location type, outlet size, and item type
-- **Outlet Establishment Trend**: Visualizes the growth of outlet establishments from 2012 to 2022
-- **Fat Content Analysis**: Breaks down sales by low fat and regular fat products
-- **Item Type Distribution**: Shows sales distribution across various product categories
-- **Outlet Size and Location Analysis**: Provides insights on sales performance by outlet size and location tier
-- **Outlet Type Comparison**: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
+Identified top-performing product categories
+Analyzed customer preferences using ratings and sales
+Compared performance across outlet types and locations
+Observed trends in sales distribution
+Found areas for business improvement
 
-## Insights and Conclusions
+Tools Used
 
-1. Strong overall sales performance with over $1M in total sales
-2. Consumer preference for low-fat products, indicating health-conscious buying habits
-3. Fruits, vegetables, and snack foods are the top-selling categories
-4. Medium-sized outlets in Tier 3 locations show the highest profitability
-5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+Microsoft Excel
+Pivot Tables
+Charts (Bar, Pie, Column)
+Slicers
+Data Cleaning Techniques
 
-**NOTE:** This analysis was conducted as part of a project and is for educational purposes only.
+Note
+This project is created using Microsoft Excel for educational purposes to demonstrate data analysis and visualization techniques.
